@@ -1,0 +1,6 @@
+{
+  "name": "La lengua como sistema - Լեզուն որպես համակարգ",
+  "description": "Интерактивное изучение испанской лингвистики с переводом на армянский язык при клике, аудиопроизношением и тренажером.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
